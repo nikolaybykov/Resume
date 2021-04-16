@@ -6,7 +6,7 @@ Nikolay Bykov
 
 **  
   
-**E-mail:** [\[email protected\]](/cdn-cgi/l/email-protection#4c222e3527233a0c2b212d2520622f2321)  
+**E-mail:** nbykov@gmail.com
   
   
 
