@@ -10,7 +10,7 @@ Nikolay Bykov
   
   
 
-I am curious for everything in technology and excel in picking up new skills with ease. Also, I have great server-side experience in both Windows and Linux with commercial experience with the AWS cloud platform. Engineer experience across Devops tools and CI/CD principles. I currently work as Senior Infrastructure Engineer in a software development company, but I am looking to further develop my management experience. With all these skills, I fully committed to continuing my carrier on a full-time basis.
+I am curious for everything in technology and excel in picking up new skills with ease. Also, I have great server-side experience in both Windows and Linux with commercial experience with the AWS cloud platform. Engineer experience across DevOps tools and CI/CD principles. I currently work as Senior DevOps Engineer in a software development company, but I am looking to further develop my hard skills. With all this experience, I fully committed to continuing my carrier on a full-time basis.
 
   
 **EDUCATION:**  
@@ -24,6 +24,17 @@ Computer Automated Design Systems, Code 230104
 **SUMMARY:**  
   
 
+\- **DevOps** and Automated software deployment, including **Orchestration**  
+\- Planning and setup of **Clusters** and **Virtualization**  
+\- Docker **containerization** and deployment  
+\- Kubernetes  
+\- SQL/NoSQL **Databases** administration  
+\- **Backup** and **Disaster recovery** solutions  
+\- Fiber and UTP cables pulling, termination and testing  
+\- Installation, maintenance of computer classes and **labs**  
+\- IT Project Management  
+\- **Web sites** development and administration  
+\- Desktop applications **programming**
 \- **Data Centers** maintenance and management  
 \- Wired and wireless WAN / LAN architecture design  
 \- **Routers, Switches and Security Appliances** configuration  
@@ -32,17 +43,7 @@ Computer Automated Design Systems, Code 230104
 \- ISO8583  
 \- **IP telephony** systems installation and management  
 \- Network Access **Storage** / **Servers** hardware installation  
-\- DevOps and Automated software deployment, including **Orchestration**  
-\- Planning and setup of **Clusters** and **Virtualization**  
-\- Docker **containerization** and deployment  
-\- Kubernetes  
-\- SQL **Databases** administration  
-\- **Backup** and **Disaster recovery** solutions  
-\- Fiber and UTP cables pulling, termination and testing  
-\- Installation, maintenance of computer classes and **labs**  
-\- IT Project Management  
-\- **Web sites** development and administration  
-\- Desktop applications **programming**  
+
 
   
   
@@ -88,7 +89,7 @@ Dell/HP/IBM Servers, Switches/Routers/ASA, Dell PowerVault, Desktops, Wireless A
 **EMPLOYMENT HISTORY:**  
   
 
-**THL Digital, Auckland, New Zealand 11/2020 - present**  
+**THL Digital, Auckland, New Zealand 2020 - present**  
   
 
 _Position:_ Senior DevOps Engineer  
@@ -113,7 +114,7 @@ Strong hands on experience on:
 
   
 
-**Xtracta, Auckland, New Zealand 05/2019 - 11/2020**  
+**Xtracta, Auckland, New Zealand 2019 - 2020**  
   
 
 _Position:_ Senior IT Infrastructure Engineer  
@@ -144,7 +145,7 @@ Working as DevOps Engineer, I have been responsible for building, scaling and ma
 
   
 
-**Payment Express, Auckland, New Zealand 01/2017 - 04/2019**  
+**Payment Express, Auckland, New Zealand 2017 - 2019**  
   
 
 _Position:_ Application Support  
@@ -172,7 +173,7 @@ Take part in various projects with tasks such as:
 
   
 
-**Directorate of Public Works, Sharjah, UAE 01/2008 - 10/2016**  
+**Directorate of Public Works, Sharjah, UAE 2008 - 2016**  
   
 
 _Position:_ Systems Engineer  
@@ -206,7 +207,7 @@ _Other completed projects_: Active Directory and Domain migration, Exchange serv
 
   
 
-**The British University in Dubai, Dubai, UAE 05/2004 - 01/2008**  
+**The British University in Dubai, Dubai, UAE 2004 - 2008**  
   
 
 _Position:_ IT Officer  
@@ -240,7 +241,7 @@ Achievement: Building management billing reduced by 100%
   
   
 
-**Al Safa Management, General Medical Centre, Dubai, UAE 05/2001 - 05/2004**  
+**Al Safa Management, General Medical Centre, Dubai, UAE 2001 - 2004**  
   
 
 _Position:_ Computing Officer  
@@ -277,7 +278,7 @@ _Position_ in Doctorelite.com portal project: Web developer/System administrator
   
   
 
-**Public Prosecutor Office of Udmurt Republic, Izhevsk, Russia 03/1995 - 03/2001**  
+**Public Prosecutor Office of Udmurt Republic, Izhevsk, Russia 1995 - 2001**  
   
 
 _Position:_ Senior IT Specialist  
@@ -292,27 +293,3 @@ IBM LAN Server, Windows 98, Data Wall, Red Hat Linux, Apache, MySQL, Sendmail, J
 \- Assistance in use of IT equipment  
 \- Collecting, archiving and processing statistical data  
 \- Workstation assembling and repair
-
-  
-  
-
-**Business School (founders: Izhevsk State Technical University and the consulting firm SIBEK, Germany), Izhevsk, Russia 03/1994 - 03/1995**  
-  
-
-_Position:_ IT Lab Officer  
-  
-
-\- Student skill training sessions  
-\- Documentation and reporting  
-\- IT Lab setup and administration  
-\- Workgroup networking
-
-  
-  
-
-**Children’s Hospital No.5, Izhevsk, Russia 01/1990 - 08/1990**
-
-_Position:_ Computer Operator  
-  
-
-\- Data entry operator
