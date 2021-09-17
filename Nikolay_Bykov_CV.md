@@ -90,27 +90,27 @@ Dell/HP/IBM Servers, Switches/Routers/ASA, Dell PowerVault, Desktops, Wireless A
 
 
 **DATACOM, Auckland, New Zealand 2021 - present**
-
-
+  
+  
 _Position:_ DevOps Engineer 
-
+  
 Covered all aspects of the system lifecycle, including RFPs, software development, testing, release and deployment, maintenance, support, and issue resolution.
 Proven hands-on experience, strong technical background in Development, familiarity with implementation and upkeep of DevOps processes and implementations, and containerization of Software Applications. Worked with Developers and Architects to design, build and execute DevOps solutions for Datacom customers.
 Proficient in using modern development environment stacks
-
+  
 Experience with:
-
-\- Centralised logging systems
-\- CI/CD Script Writing
-\- Performance assessment and monitoring
-\- Supporting a service-oriented architecture system
-\- Azure and Azure DevOps environments
-\- AWS and GCP environments
-\- OpenStack technologies
-\- Working in agile environment
+  
+\- Centralised logging systems  
+\- CI/CD Script Writing  
+\- Performance assessment and monitoring  
+\- Supporting a service-oriented architecture system  
+\- Azure and Azure DevOps environments  
+\- AWS and GCP environments  
+\- OpenStack technologies  
+\- Working in agile environment  
   
   
-
+  
 **THL Digital, Auckland, New Zealand 2020 - 2021**  
   
 
