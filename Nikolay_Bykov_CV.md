@@ -296,22 +296,3 @@ _Position_ in Doctorelite.com portal project: Web developer/System administrator
 \- Web design, layout programming, and graphics content creation  
 \- Internet Service Provider relations  
 \- Doctorelite.com e-mail domain management
-
-  
-  
-
-**Public Prosecutor Office of Udmurt Republic, Izhevsk, Russia 1995 - 2001**  
-  
-
-_Position:_ Senior IT Specialist  
-  
-IBM LAN Server, Windows 98, Data Wall, Red Hat Linux, Apache, MySQL, Sendmail, Java JDK, PHP  
-  
-
-\- Unix servers administration  
-\- Network management  
-\- Apache HTTP server, MySQL and Squid Proxy/Firewall administration  
-\- E-mail, data streams services installation and maintenance  
-\- Assistance in use of IT equipment  
-\- Collecting, archiving and processing statistical data  
-\- Workstation assembling and repair
